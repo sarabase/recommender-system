@@ -1,4 +1,15 @@
 # Movie Recommender
+This project was developed as part of the Agile Data Science course from the MSc Fundamental Principles of Data Science - Universitat de Barcelona. The aim of the proejct was to develop a recommender web server in teams of 5 people following agile methodologies. 
+
+## Collaborators
+
+The solution was developed by the following collaborators:
+
+- [@sergibech](https://github.com/sergibech)
+- [@gcastro-98](https://github.com/gcastro-98)
+- [@MartaBuetas](https://github.com/MartaBuetas)
+- [@Goodjorx](https://github.com/Goodjorx)
+- [@sarabase](https://github.com/sarabase)
 
 ## Repository folder structure
 
